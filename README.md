@@ -13,3 +13,7 @@ Ici, je note ce que j'apprend ensemble en vibe coding.
 - **Git** : garder l'historique de mon projet
 - **GitHub** : le partager en ligne
 - *Markdown* : écrire du texte mis en forme
+
+## Ma page
+
+[Voir ma page en ligne](https://www.instagram.com)
